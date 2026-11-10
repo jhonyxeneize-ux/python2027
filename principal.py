@@ -1,3 +1,4 @@
+# Codigo en desarrollo
 from mayormenor import mayor
 valor1=int(input("Ingrese primer numero:"))
 valor2=int(input("Ingrese segundo numero:"))
